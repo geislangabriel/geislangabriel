@@ -11,11 +11,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=geislangabriel&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=geislangabriel&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=geislangabriel&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=geislangabriel&theme=dark&no-frame=true&no-bg=true&margin-w=4)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=geislann)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
